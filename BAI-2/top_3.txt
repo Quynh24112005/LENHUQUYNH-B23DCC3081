@@ -1,0 +1,700 @@
+Chi so: Playing Time: matches played
+3 cau thu diem cao nhat:
+   Tyrick Mitchell: 34
+   David Raya: 34
+   Dean Henderson: 34
+3 cau thu diem thap nhat:
+   Ayden Heaven: 2
+   Ben Godfrey: 2
+   Billy Gilmour: 2
+
+Chi so: Playing Time: starts
+3 cau thu diem cao nhat:
+   Youri Tielemans: 34
+   Tyrick Mitchell: 34
+   Dean Henderson: 34
+3 cau thu diem thap nhat:
+   Ben Chilwell: 0
+   Sergio Reguilón: 0
+   Solly March: 0
+
+Chi so: Playing Time: minutes
+3 cau thu diem cao nhat:
+   Jack Clarke: 994.0
+   Christian Eriksen: 993.0
+   Paul Onuachu: 984.0
+3 cau thu diem thap nhat:
+   Harrison Reed: 93.0
+   Ayden Heaven: 95.0
+   Jahmai Simpson-Pusey: 96.0
+
+Chi so: Performance: goals
+3 cau thu diem cao nhat:
+   Mohamed Salah: 27
+   Alexander Isak: 21
+   Erling Haaland: 21
+3 cau thu diem thap nhat:
+   Aaron Cresswell: 0
+   Aaron Ramsdale: 0
+   Arijanet Muric: 0
+
+Chi so: Performance: assists
+3 cau thu diem cao nhat:
+   Mohamed Salah: 18
+   Jacob Murphy: 11
+   Bukayo Saka: 10
+3 cau thu diem thap nhat:
+   Aaron Cresswell: 0
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+
+Chi so: Performance: yellow cards
+3 cau thu diem cao nhat:
+   Saša Lukić: 12
+   Will Hughes: 11
+   João Gomes: 10
+3 cau thu diem thap nhat:
+   Alisson: 0
+   Alphonse Areola: 0
+   André Onana: 0
+
+Chi so: Performance: red cards
+3 cau thu diem cao nhat:
+   Bruno Fernandes: 2
+   Jack Stephens: 2
+   Myles Lewis-Skelly: 2
+3 cau thu diem thap nhat:
+   Yankuba Minteh: 0
+   Vladimír Coufal: 0
+   Wataru Endo: 0
+
+Chi so: Expected: xG
+3 cau thu diem cao nhat:
+   Mohamed Salah: 23.7
+   Erling Haaland: 20.8
+   Alexander Isak: 17.5
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0.0
+   Łukasz Fabiański: 0.0
+   Victor Lindelöf: 0.0
+
+Chi so: Expected: xAG
+3 cau thu diem cao nhat:
+   Mohamed Salah: 12.1
+   Cole Palmer: 9.2
+   Son Heung-min: 8.2
+3 cau thu diem thap nhat:
+   Łukasz Fabiański: 0.0
+   Aaron Ramsdale: 0.0
+   Alphonse Areola: 0.0
+
+Chi so: PrgC
+3 cau thu diem cao nhat:
+   Jeremy Doku: 176
+   Mohamed Salah: 138
+   Kaoru Mitoma: 136
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+   Wataru Endo: 0
+
+Chi so: PrgP
+3 cau thu diem cao nhat:
+   Bruno Fernandes: 264
+   Joško Gvardiol: 240
+   Martin Ødegaard: 231
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+   Alphonse Areola: 0
+
+Chi so: PrgR
+3 cau thu diem cao nhat:
+   Mohamed Salah: 407
+   Bryan Mbeumo: 300
+   Kaoru Mitoma: 274
+3 cau thu diem thap nhat:
+   Yerson Mosquera: 0
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+
+Chi so: Per 90 minutes: Gls
+3 cau thu diem cao nhat:
+   Jáder Durán: 0.99
+   Donyell Malen: 0.99
+   Richarlison: 0.94
+3 cau thu diem thap nhat:
+   Aaron Cresswell: 0.0
+   Aaron Ramsdale: 0.0
+   Łukasz Fabiański: 0.0
+
+Chi so: Per 90 minutes: Ast
+3 cau thu diem cao nhat:
+   Tyrique George: 0.88
+   Danny Ings: 0.63
+   Bukayo Saka: 0.62
+3 cau thu diem thap nhat:
+   Woyo Coulibaly: 0.0
+   Antonín Kinský: 0.0
+   Antony: 0.0
+
+Chi so: Per 90 minutes: xG
+3 cau thu diem cao nhat:
+   James Mcatee: 0.85
+   Richarlison: 0.83
+   Marco Asensio: 0.78
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0.0
+   Łukasz Fabiański: 0.0
+   Antonín Kinský: 0.0
+
+Chi so: Per 90 minutes: xAG
+3 cau thu diem cao nhat:
+   Tyrique George: 0.63
+   Mykhailo Mudryk: 0.58
+   Philip Billing: 0.54
+3 cau thu diem thap nhat:
+   Łukasz Fabiański: 0.0
+   Aaron Ramsdale: 0.0
+   Alphonse Areola: 0.0
+
+Chi so: Goalkeeping: Performance: GA90
+3 cau thu diem cao nhat:
+   Danny Ward: 4.0
+   Christian Walton: 2.67
+   Alex McCarthy: 2.6
+3 cau thu diem thap nhat:
+   Jason Steele: 0.5
+   Alisson: 0.83
+   David Raya: 0.85
+
+Chi so: Goalkeeping: Performance: Save%
+3 cau thu diem cao nhat:
+   Neto: 84.6
+   Mark Travers: 80.0
+   Robert Sánchez: 76.1
+3 cau thu diem thap nhat:
+   Danny Ward: 40.0
+   Hákon Rafn Valdimarsson: 50.0
+   Robin Olsen: 55.6
+
+Chi so: Goalkeeping: Performance: CS%
+3 cau thu diem cao nhat:
+   Hákon Rafn Valdimarsson: 100.0
+   Robin Olsen: 100.0
+   Martin Dúbravka: 50.0
+3 cau thu diem thap nhat:
+   Alex McCarthy: 0.0
+   Alex Palmer: 0.0
+   Danny Ward: 0.0
+
+Chi so: Goalkeeping: Penalty Kicks: Save%
+3 cau thu diem cao nhat:
+   Caoimhín Kelleher: 100.0
+   Jordan Pickford: 100.0
+   Nick Pope: 50.0
+3 cau thu diem thap nhat:
+   Alex McCarthy: 0.0
+   Arijanet Muric: 0.0
+   Bernd Leno: 0.0
+
+Chi so: Shooting: Standard: SoT%
+3 cau thu diem cao nhat:
+   Archie Gray: 100.0
+   Ryan Fraser: 100.0
+   Séamus Coleman: 100.0
+3 cau thu diem thap nhat:
+   Aaron Cresswell: 0.0
+   Ali Al Hamadi: 0.0
+   Andrés García: 0.0
+
+Chi so: Shooting: Standard: SoT/90
+3 cau thu diem cao nhat:
+   Julio Enciso: 3.37
+   Julio Enciso: 3.37
+   Donyell Malen: 2.64
+3 cau thu diem thap nhat:
+   Aaron Cresswell: 0.0
+   Aaron Ramsdale: 0.0
+   Łukasz Fabiański: 0.0
+
+Chi so: Shooting: Standard: G/Sh
+3 cau thu diem cao nhat:
+   John Stones: 1.0
+   Axel Disasi: 0.5
+   Myles Lewis-Skelly: 0.5
+3 cau thu diem thap nhat:
+   Aaron Cresswell: 0.0
+   Álex Moreno: 0.0
+   Yerson Mosquera: 0.0
+
+Chi so: Shooting: Standard: Dist
+3 cau thu diem cao nhat:
+   Ibrahim Sangaré: 32.0
+   Ryan Fraser: 31.6
+   Nathaniel Clyne: 31.4
+3 cau thu diem thap nhat:
+   Kieran Tierney: 2.6
+   Harry Clarke: 4.5
+   John Stones: 5.1
+
+Chi so: Passing: Total: Cmp
+3 cau thu diem cao nhat:
+   Virgil van Dijk: 2371
+   William Saliba: 2272
+   Joško Gvardiol: 2240
+3 cau thu diem thap nhat:
+   Odsonne Édouard: 6
+   Albert Grønbaek: 13
+   Ali Al Hamadi: 25
+
+Chi so: Passing: Total: Cmp%
+3 cau thu diem cao nhat:
+   William Saliba: 94.2
+   Nathan Aké: 93.9
+   Manuel Akanji: 93.9
+3 cau thu diem thap nhat:
+   Matz Sels: 50.1
+   George Hirst: 53.1
+   Beto: 56.9
+
+Chi so: Passing: Total: TotDist
+3 cau thu diem cao nhat:
+   Mark Flekken: 22467
+   Jordan Pickford: 21888
+   Virgil van Dijk: 17059
+3 cau thu diem thap nhat:
+   Odsonne Édouard: 5
+   Chiedozie Ogbene: 27
+   Ali Al Hamadi: 29
+
+Chi so: Passing: Short: Cmp%
+3 cau thu diem cao nhat:
+   Łukasz Fabiański: 100.0
+   Robin Olsen: 100.0
+   Danny Ward: 100.0
+3 cau thu diem thap nhat:
+   Paul Onuachu: 63.8
+   George Hirst: 65.5
+   Rodrigo Muniz: 67.6
+
+Chi so: Passing: Medium: Cmp%
+3 cau thu diem cao nhat:
+   Robin Olsen: 100.0
+   Odsonne Édouard: 100.0
+   Caoimhín Kelleher: 100.0
+3 cau thu diem thap nhat:
+   George Hirst: 45.5
+   Beto: 49.2
+   Albert Grønbaek: 50.0
+
+Chi so: Passing: Long: Cmp%
+3 cau thu diem cao nhat:
+   Wataru Endo: 100.0
+   Andy Irving: 100.0
+   Tyrell Malacia: 100.0
+3 cau thu diem thap nhat:
+   Enes Ünal: 0.0
+   Marshall Munetsi: 0.0
+   Tyrique George: 0.0
+
+Chi so: Passing: Expected: KP
+3 cau thu diem cao nhat:
+   Bruno Fernandes: 77
+   Cole Palmer: 76
+   Mohamed Salah: 75
+3 cau thu diem thap nhat:
+   Łukasz Fabiański: 0
+   Aaron Ramsdale: 0
+   Alphonse Areola: 0
+
+Chi so: Passing: Expected: 1/3
+3 cau thu diem cao nhat:
+   Virgil van Dijk: 258
+   Joško Gvardiol: 225
+   Youri Tielemans: 221
+3 cau thu diem thap nhat:
+   Ali Al Hamadi: 0
+   Tyrique George: 0
+   Solly March: 0
+
+Chi so: Passing: Expected: PPA
+3 cau thu diem cao nhat:
+   Mohamed Salah: 80
+   Martin Ødegaard: 78
+   Alex Iwobi: 74
+3 cau thu diem thap nhat:
+   Ali Al Hamadi: 0
+   Łukasz Fabiański: 0
+   Alphonse Areola: 0
+
+Chi so: Passing: Expected: CrsPA
+3 cau thu diem cao nhat:
+   Antonee Robinson: 26
+   Pedro Porro: 26
+   Milos Kerkez: 22
+3 cau thu diem thap nhat:
+   Łukasz Fabiański: 0
+   Woyo Coulibaly: 0
+   Wout Faes: 0
+
+Chi so: Passing: Expected: PrgP
+3 cau thu diem cao nhat:
+   Bruno Fernandes: 264
+   Joško Gvardiol: 240
+   Martin Ødegaard: 231
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+   Alphonse Areola: 0
+
+Chi so: Goal and Shot Creation: SCA: SCA
+3 cau thu diem cao nhat:
+   Cole Palmer: 177
+   Bruno Fernandes: 157
+   Mohamed Salah: 144
+3 cau thu diem thap nhat:
+   Sven Botman: 0
+   Stefan Ortega: 0
+   Benoît Badiashile: 0
+
+Chi so: Goal and Shot Creation: SCA: SCA90
+3 cau thu diem cao nhat:
+   Philip Billing: 7.83
+   Luis Guilherme: 6.52
+   Kevin De Bruyne: 6.24
+3 cau thu diem thap nhat:
+   Sven Botman: 0.0
+   Ben Mee: 0.0
+   Benoît Badiashile: 0.0
+
+Chi so: Goal and Shot Creation: GCA: GCA
+3 cau thu diem cao nhat:
+   Mohamed Salah: 24
+   Bukayo Saka: 22
+   Mikkel Damsgaard: 21
+3 cau thu diem thap nhat:
+   Tyrell Malacia: 0
+   Archie Gray: 0
+   Antonín Kinský: 0
+
+Chi so: Goal and Shot Creation: GCA: GCA90
+3 cau thu diem cao nhat:
+   Solly March: 1.7
+   Bukayo Saka: 1.36
+   Harvey Elliott: 0.98
+3 cau thu diem thap nhat:
+   Aaron Cresswell: 0.0
+   Aaron Ramsdale: 0.0
+   Yves Bissouma: 0.0
+
+Chi so: Defensive Actions: Tackles: Tkl
+3 cau thu diem cao nhat:
+   Idrissa Gana Gueye: 119
+   Daniel Muñoz: 108
+   Noussair Mazraoui: 100
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+   Bart Verbruggen: 0
+
+Chi so: Defensive Actions: Tackles: TklW
+3 cau thu diem cao nhat:
+   Idrissa Gana Gueye: 70
+   Daniel Muñoz: 69
+   Moisés Caicedo: 61
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+   Ali Al Hamadi: 0
+
+Chi so: Defensive Actions: Challenges: Att
+3 cau thu diem cao nhat:
+   Trent Alexander-Arnold: 100
+   João Gomes: 93
+   Elliot Anderson: 93
+3 cau thu diem thap nhat:
+   Armando Broja: 0
+   Ben Godfrey: 0
+   Nick Pope: 0
+
+Chi so: Defensive Actions: Challenges: Lost
+3 cau thu diem cao nhat:
+   João Gomes: 56
+   Trent Alexander-Arnold: 53
+   Elliot Anderson: 51
+3 cau thu diem thap nhat:
+   Tyrone Mings: 0
+   Ben Godfrey: 0
+   Antonín Kinský: 0
+
+Chi so: Defensive Actions: Blocks: Blocks
+3 cau thu diem cao nhat:
+   Nathan Collins: 68
+   Murillo: 66
+   Tyrick Mitchell: 62
+3 cau thu diem thap nhat:
+   Łukasz Fabiański: 0
+   Aaron Ramsdale: 0
+   Ali Al Hamadi: 0
+
+Chi so: Defensive Actions: Blocks: Sh
+3 cau thu diem cao nhat:
+   Nathan Collins: 48
+   Dara O'Shea: 45
+   Murillo: 43
+3 cau thu diem thap nhat:
+   Łukasz Fabiański: 0
+   Aaron Ramsdale: 0
+   Ali Al Hamadi: 0
+
+Chi so: Defensive Actions: Blocks: Pass
+3 cau thu diem cao nhat:
+   Alexis Mac Allister: 53
+   Tyrick Mitchell: 50
+   Antoine Semenyo: 48
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+   Alphonse Areola: 0
+
+Chi so: Defensive Actions: Blocks: Int
+3 cau thu diem cao nhat:
+   Aaron Wan-Bissaka: 57
+   Ryan Gravenberch: 56
+   Antonee Robinson: 56
+3 cau thu diem thap nhat:
+   Łukasz Fabiański: 0
+   Ali Al Hamadi: 0
+   Alphonse Areola: 0
+
+Chi so: Possession: Touches: Touches
+3 cau thu diem cao nhat:
+   Virgil van Dijk: 2915
+   Joško Gvardiol: 2808
+   William Saliba: 2657
+3 cau thu diem thap nhat:
+   Odsonne Édouard: 20
+   Albert Grønbaek: 38
+   Ali Al Hamadi: 53
+
+Chi so: Possession: Touches: Def Pen
+3 cau thu diem cao nhat:
+   Mark Flekken: 1261
+   Bernd Leno: 1046
+   Emiliano Martínez: 990
+3 cau thu diem thap nhat:
+   Emi Buendía: 0
+   Solly March: 0
+   Mikey Moore: 1
+
+Chi so: Possession: Touches: Def 3rd
+3 cau thu diem cao nhat:
+   Mark Flekken: 1569
+   Jordan Pickford: 1401
+   Bernd Leno: 1296
+3 cau thu diem thap nhat:
+   Odsonne Édouard: 2
+   Callum Wilson: 5
+   Solly March: 5
+
+Chi so: Possession: Touches: Mid 3rd
+3 cau thu diem cao nhat:
+   Virgil van Dijk: 1624
+   William Saliba: 1495
+   Joško Gvardiol: 1412
+3 cau thu diem thap nhat:
+   Neto: 0
+   Danny Ward: 0
+   Jason Steele: 0
+
+Chi so: Possession: Touches: Att 3rd
+3 cau thu diem cao nhat:
+   Mohamed Salah: 967
+   Bryan Mbeumo: 851
+   Bruno Fernandes: 848
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+   Alphonse Areola: 0
+
+Chi so: Possession: Touches: Att Pen
+3 cau thu diem cao nhat:
+   Mohamed Salah: 310
+   Antoine Semenyo: 174
+   Erling Haaland: 170
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+   Neto: 0
+
+Chi so: Possession: Take-Ons: Att
+3 cau thu diem cao nhat:
+   Mohammed Kudus: 177
+   Jeremy Doku: 175
+   Morgan Rogers: 145
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Victor Lindelöf: 0
+   Arijanet Muric: 0
+
+Chi so: Possession: Take-Ons: Succ%
+3 cau thu diem cao nhat:
+   Wataru Endo: 100.0
+   Tyrone Mings: 100.0
+   Alisson: 100.0
+3 cau thu diem thap nhat:
+   Armel Bella Kotchap: 0.0
+   Albert Grønbaek: 0.0
+   Bobby Reid: 0.0
+
+Chi so: Possession: Take-Ons: Tkld%
+3 cau thu diem cao nhat:
+   Santiago Bueno: 100.0
+   Benoît Badiashile: 100.0
+   Armel Bella Kotchap: 100.0
+3 cau thu diem thap nhat:
+   Łukasz Fabiański: 0.0
+   Alisson: 0.0
+   Welington: 0.0
+
+Chi so: Possession: Carries: Carries
+3 cau thu diem cao nhat:
+   Joško Gvardiol: 1826
+   William Saliba: 1640
+   Virgil van Dijk: 1640
+3 cau thu diem thap nhat:
+   Odsonne Édouard: 11
+   Harry Toffolo: 17
+   Albert Grønbaek: 18
+
+Chi so: Possession: Carries: PrgDist
+3 cau thu diem cao nhat:
+   Jan Paul van Hecke: 6643
+   Joško Gvardiol: 5505
+   Rúben Dias: 5097
+3 cau thu diem thap nhat:
+   Odsonne Édouard: 2
+   Albert Grønbaek: 15
+   Harry Toffolo: 23
+
+Chi so: Possession: Carries: 1/3
+3 cau thu diem cao nhat:
+   Alex Iwobi: 94
+   Joško Gvardiol: 91
+   Jeremy Doku: 83
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+   Alphonse Areola: 0
+
+Chi so: Possession: Carries: CPA
+3 cau thu diem cao nhat:
+   Mohamed Salah: 110
+   Jeremy Doku: 80
+   Noni Madueke: 75
+3 cau thu diem thap nhat:
+   Aaron Cresswell: 0
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+
+Chi so: Possession: Carries: Mis
+3 cau thu diem cao nhat:
+   Mohamed Salah: 102
+   Morgan Rogers: 102
+   Liam Delap: 92
+3 cau thu diem thap nhat:
+   Łukasz Fabiański: 0
+   Alphonse Areola: 0
+   Antonín Kinský: 0
+
+Chi so: Possession: Carries: Dis
+3 cau thu diem cao nhat:
+   Mohammed Kudus: 84
+   Bruno Guimarães: 72
+   Dejan Kulusevski: 72
+3 cau thu diem thap nhat:
+   Aaron Cresswell: 0
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+
+Chi so: Miscellaneous: Performance: Fls
+3 cau thu diem cao nhat:
+   Antoine Semenyo: 64
+   Liam Delap: 64
+   João Gomes: 64
+3 cau thu diem thap nhat:
+   Wilson Odobert: 0
+   Luis Guilherme: 0
+   Kosta Nedeljković: 0
+
+Chi so: Miscellaneous: Performance: Fld
+3 cau thu diem cao nhat:
+   Bruno Guimarães: 98
+   James Maddison: 63
+   John McGinn: 63
+3 cau thu diem thap nhat:
+   Ben Mee: 0
+   Tyrique George: 0
+   Nathan Aké: 0
+
+Chi so: Miscellaneous: Performance: Off
+3 cau thu diem cao nhat:
+   Dominic Calvert-Lewin: 27
+   Chris Wood: 24
+   Jamie Vardy: 23
+3 cau thu diem thap nhat:
+   Aaron Cresswell: 0
+   Aaron Ramsdale: 0
+   Łukasz Fabiański: 0
+
+Chi so: Miscellaneous: Performance: Crs
+3 cau thu diem cao nhat:
+   Pedro Porro: 191
+   Bryan Mbeumo: 171
+   Bruno Fernandes: 164
+3 cau thu diem thap nhat:
+   Łukasz Fabiański: 0
+   Woyo Coulibaly: 0
+   Tosin Adarabioyo: 0
+
+Chi so: Miscellaneous: Performance: Recov
+3 cau thu diem cao nhat:
+   Moisés Caicedo: 192
+   Bruno Fernandes: 187
+   Ryan Christie: 182
+3 cau thu diem thap nhat:
+   Odsonne Édouard: 1
+   Danny Ward: 1
+   Hákon Rafn Valdimarsson: 1
+
+Chi so: Miscellaneous: Aerial Duels: Won
+3 cau thu diem cao nhat:
+   Dan Burn: 122
+   Virgil van Dijk: 109
+   Nathan Collins: 103
+3 cau thu diem thap nhat:
+   Billy Gilmour: 0
+   Tyrell Malacia: 0
+   Miguel Almirón: 0
+
+Chi so: Miscellaneous: Aerial Duels: Lost
+3 cau thu diem cao nhat:
+   Chris Wood: 117
+   Jean-Philippe Mateta: 95
+   Jørgen Strand Larsen: 94
+3 cau thu diem thap nhat:
+   Aaron Ramsdale: 0
+   Alex Palmer: 0
+   Alex McCarthy: 0
+
+Chi so: Miscellaneous: Aerial Duels: Won%
+3 cau thu diem cao nhat:
+   André Onana: 100.0
+   Alphonse Areola: 100.0
+   Alisson: 100.0
+3 cau thu diem thap nhat:
+   Antony: 0.0
+   Timo Werner: 0.0
+   Kosta Nedeljković: 0.0
+
