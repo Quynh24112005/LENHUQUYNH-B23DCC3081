@@ -1,0 +1,532 @@
+﻿ScrapeOrder,Player,Nation_Internal,Position,Age,Team_Internal,Skill,Potential,ETV_Raw_Internal,ETV_Parsed
+1,Erling Haaland,N/a,F (C),24,Man City,92.8,100.0,€199.6M,199.6
+2,Martin Ødegaard,N/a,"M, AM (C)",26,Arsenal,89.2,92.9,€125.8M,125.8
+3,Alexander Isak,N/a,F (C),25,Newcastle Utd.,82.0,84.9,€119.4M,119.4
+4,Cole Palmer,N/a,M (C),22,Chelsea,80.1,92.5,€117.4M,117.4
+5,Alexis Mac Allister,N/a,"M, DM, AM (C)",26,Liverpool,85.5,88.9,€117M,117.0
+6,Declan Rice,N/a,M (C),26,Arsenal,83.7,86.6,€116.4M,116.4
+7,Bukayo Saka,N/a,"F, M (R)",23,Arsenal,87.2,96.9,€113M,113.0
+8,Phil Foden,N/a,"AM (R), M (C)",24,Man City,86.5,93.6,€99.8M,99.8
+9,Rodri,N/a,"DM, M (C)",28,Man City,88.2,88.9,€87M,87.0
+10,Ryan Gravenberch,N/a,"DM, M (C)",22,Liverpool,86.8,98.3,€85.5M,85.5
+11,Moisés Caicedo,N/a,DM (C),23,Chelsea,81.1,91.9,€82.8M,82.8
+12,Bruno Guimarães,N/a,"DM, M (C)",27,Newcastle Utd.,80.9,82.6,€82.3M,82.3
+13,Morgan Rogers,N/a,M (CR),23,Aston Villa,69.2,78.4,€79.6M,79.6
+14,William Saliba,N/a,D (C),24,Arsenal,88.9,96.7,€79.5M,79.5
+15,Omar Marmoush,N/a,F (C),26,Man City,77.1,79.4,€79.1M,79.1
+16,Joško Gvardiol,N/a,D (CL),23,Man City,79.4,91.0,€77.4M,77.4
+17,Sávio,N/a,"F (R), M (RL)",21,Man City,77.8,91.6,€74.8M,74.8
+18,Rúben Dias,N/a,D (C),27,Man City,86.4,86.4,€74.5M,74.5
+19,Enzo Fernández,N/a,"M, DM (C)",24,Chelsea,75.1,82.7,€74.2M,74.2
+20,Lucas Paquetá,N/a,"AM, M (C)",27,West Ham United,76.0,78.0,€73.5M,73.5
+21,Archie Gray,N/a,"D (CR), DM (C)",19,Tottenham,71.0,89.0,€72.5M,72.5
+22,Dominik Szoboszlai,N/a,"M (C), AM (L)",24,Liverpool,86.9,93.8,€70.5M,70.5
+23,Kai Havertz,N/a,F (C),25,Arsenal,85.1,89.1,€70M,70.0
+24,Luis Díaz,N/a,"F (CL), M (L)",28,Liverpool,86.5,86.5,€69.3M,69.3
+25,Cody Gakpo,N/a,"F, M, AM (L)",25,Liverpool,86.3,89.3,€67.7M,67.7
+26,Brennan Johnson,N/a,"F, M (R)",23,Tottenham,76.4,84.3,€67M,67.0
+27,Nicolas Jackson,N/a,F (C),23,Chelsea,81.5,91.3,€66.9M,66.9
+28,Gabriel Magalhães,N/a,D (C),27,Arsenal,84.8,86.5,€66.5M,66.5
+29,Jérémy Doku,N/a,M (L),22,Man City,80.1,89.3,€66.5M,66.5
+30,Leny Yoro,N/a,D (CR),19,Man Utd,70.5,88.1,€66.2M,66.2
+31,Murillo,N/a,D (C),22,Nottingham,73.9,85.8,€66M,66.0
+32,Amadou Onana,N/a,"DM, M (C)",23,Aston Villa,68.7,76.0,€64.4M,64.4
+33,Ollie Watkins,N/a,F (C),29,Aston Villa,80.4,80.9,€63.2M,63.2
+34,Mohammed Kudus,N/a,"F (R), M (CL)",24,West Ham United,73.1,79.0,€63M,63.0
+35,Jurrien Timber,N/a,D (RL),23,Arsenal,75.2,84.6,€62.7M,62.7
+36,Rico Lewis,N/a,D (R),20,Man City,75.0,88.9,€62.7M,62.7
+37,Matheus Cunha,N/a,F (C),25,Wolverhampton,80.9,83.2,€62.6M,62.6
+38,Eberechi Eze,N/a,"AM, M (C), F (L)",26,C. Palace,74.9,75.8,€62.2M,62.2
+39,Micky van de Ven,N/a,D (CL),24,Tottenham,71.1,79.1,€62M,62.0
+40,Morgan Gibbs-White,N/a,"M, AM (C)",25,Nottingham,77.1,80.0,€61.7M,61.7
+41,Milos Kerkez,N/a,D (L),21,B'mouth,75.7,91.1,€61.6M,61.6
+42,Curtis Jones,N/a,"M, DM (C)",24,Liverpool,77.9,84.0,€61.6M,61.6
+43,João Pedro,N/a,"F, M, AM (C)",23,Brighton,71.0,78.5,€61.3M,61.3
+44,Bruno Fernandes,N/a,"AM, M (C)",30,Man Utd,79.8,79.9,€61.2M,61.2
+45,Pedro Neto,N/a,"F, M (R)",25,Chelsea,70.6,75.9,€60.4M,60.4
+46,Manuel Ugarte,N/a,"DM, M (C)",24,Man Utd,72.5,79.6,€60.3M,60.3
+47,Dejan Kulusevski,N/a,"AM, M (C)",25,Tottenham,86.7,91.7,€60.3M,60.3
+48,Rasmus Winther Højlund,N/a,F (C),22,Man Utd,77.1,87.8,€60M,60.0
+49,Gabriel Martinelli,N/a,"F, AM (L)",23,Arsenal,87.7,96.4,€60M,60.0
+50,Cristian Romero,N/a,D (C),27,Tottenham,72.6,74.8,€60M,60.0
+51,Ben White,N/a,D (R),27,Arsenal,83.1,84.9,€59.9M,59.9
+52,Levi Colwill,N/a,D (C),22,Chelsea,78.1,91.4,€59.8M,59.8
+53,Darwin Núñez,N/a,"F (C), AM (L)",25,Liverpool,80.5,84.1,€59.7M,59.7
+54,Destiny Udogie,N/a,D (L),22,Tottenham,78.5,90.3,€59.4M,59.4
+55,Alejandro Garnacho,N/a,"F, M (L)",20,Man Utd,70.9,87.1,€59.2M,59.2
+56,Marcus Rashford,N/a,"M, AM (L), F (C)",27,Aston Villa,79.1,79.2,€58.6M,58.6
+57,Diogo Jota,N/a,F (C),28,Liverpool,83.2,83.6,€58.6M,58.6
+58,Bryan Mbeumo,N/a,"F (CR), M (R)",25,Brentford,81.2,85.9,€57.6M,57.6
+59,James Maddison,N/a,"AM, M (C)",28,Tottenham,81.2,81.2,€57.3M,57.3
+60,Ibrahima Konaté,N/a,D (C),25,Liverpool,81.4,85.4,€57.2M,57.2
+61,Dean Huijsen,N/a,D (C),20,B'mouth,65.2,82.3,€56.3M,56.3
+62,Mathys Tel,N/a,"F (C), M (L)",20,Tottenham,67.5,80.9,€56M,56.0
+63,Pedro Porro,N/a,D (R),25,Tottenham,74.6,79.7,€55.9M,55.9
+64,Trent Alexander-Arnold,N/a,D (R),26,Liverpool,85.3,87.4,€55.4M,55.4
+65,Illia Zabarnyi,N/a,D (C),22,B'mouth,75.3,88.1,€55.1M,55.1
+66,Kobbie Mainoo,N/a,"M, DM (C)",20,Man Utd,68.8,87.2,€54.8M,54.8
+67,Roméo Lavia,N/a,"DM, M (C)",21,Chelsea,67.3,77.6,€54.6M,54.6
+68,Ethan Nwaneri,N/a,"F (R), M (C)",18,Arsenal,60.3,80.3,€54.6M,54.6
+69,Sven Botman,N/a,D (C),25,Newcastle Utd.,73.2,77.6,€52.7M,52.7
+70,Anthony Gordon,N/a,F (L),24,Newcastle Utd.,80.7,86.9,€52.4M,52.4
+71,Noni Madueke,N/a,"F, M (R)",23,Chelsea,76.1,86.4,€52.3M,52.3
+72,Sandro Tonali,N/a,M (C),24,Newcastle Utd.,78.0,82.3,€52.1M,52.1
+73,Christopher Nkunku,N/a,"F (C), M (L)",27,Chelsea,79.1,81.0,€51.3M,51.3
+74,Bernardo Silva,N/a,M (CR),30,Man City,86.7,87.8,€51.1M,51.1
+75,João Gomes,N/a,"M, DM (C)",24,Wolverhampton,71.4,77.2,€51.1M,51.1
+76,Dominic Solanke,N/a,F (C),27,Tottenham,79.5,80.2,€51M,51.0
+77,Carlos Baleba,N/a,"DM, M (C)",21,Brighton,73.7,87.5,€51M,51.0
+78,Matthijs de Ligt,N/a,D (CR),25,Man Utd,75.6,82.9,€50.8M,50.8
+79,Pape Matar Sarr,N/a,"M, DM (C)",22,Tottenham,70.5,80.6,€50.8M,50.8
+80,Adam Wharton,N/a,"DM, M (C)",21,C. Palace,68.1,81.3,€49.3M,49.3
+81,Riccardo Calafiori,N/a,D (CL),22,Arsenal,73.1,80.7,€49.3M,49.3
+82,Kaoru Mitoma,N/a,"F, M (L)",27,Brighton,80.2,80.2,€49.2M,49.2
+83,Lisandro Martínez,N/a,D (CL),27,Man Utd,73.0,74.5,€49.2M,49.2
+84,Marc Guéhi,N/a,D (CL),24,C. Palace,79.0,83.7,€48.9M,48.9
+85,Amad Diallo,N/a,"F, M (R), AM (C)",22,Man Utd,69.4,76.9,€48.6M,48.6
+86,Evan Ferguson,N/a,F (C),20,West Ham United,67.3,82.0,€48.5M,48.5
+87,Valentino Livramento,N/a,D (RL),22,Newcastle Utd.,73.6,84.3,€48.4M,48.4
+88,Nico González,N/a,"M, DM (C)",23,Man City,71.6,78.1,€48.4M,48.4
+89,Abdukodir Khusanov,N/a,D (C),21,Man City,66.9,76.9,€48.4M,48.4
+90,Jarrod Bowen,N/a,"M (R), F (C)",28,West Ham United,73.5,75.3,€48.4M,48.4
+91,Harvey Elliott,N/a,"M (C), F (R)",22,Liverpool,75.7,86.7,€47.8M,47.8
+92,Elliot Anderson,N/a,"M, DM (C)",22,Nottingham,79.6,89.8,€46.2M,46.2
+93,Pau Torres,N/a,D (C),28,Aston Villa,75.6,77.2,€46.1M,46.1
+94,Joelinton,N/a,"M (C), AM (L)",28,Newcastle Utd.,77.0,77.0,€45.7M,45.7
+95,Jacob Ramsey,N/a,M (CL),23,Aston Villa,78.8,85.9,€45.7M,45.7
+96,Gabriel Jesus,N/a,F (C),28,Arsenal,89.5,89.5,€45.6M,45.6
+97,Anthony Elanga,N/a,M (R),23,Nottingham,75.0,82.6,€45.6M,45.6
+98,Antoine Semenyo,N/a,M (RL),25,B'mouth,74.1,79.3,€45.4M,45.4
+99,Noussair Mazraoui,N/a,"D (RL), M (R)",27,Man Utd,76.6,77.4,€45.3M,45.3
+100,Boubacar Kamara,N/a,"DM, M (C)",25,Aston Villa,78.9,82.6,€45.2M,45.2
+101,Justin Kluivert,N/a,"M (C), AM (R)",25,B'mouth,79.3,81.7,€44.3M,44.3
+102,Ezri Konsa,N/a,D (CR),27,Aston Villa,75.9,76.1,€44.3M,44.3
+103,Rayan Aït Nouri,N/a,"D, M (L)",23,Wolverhampton,70.5,77.7,€44M,44.0
+104,Manuel Akanji,N/a,D (C),29,Man City,79.9,82.7,€43.7M,43.7
+105,Jack Grealish,N/a,M (L),29,Man City,83.0,83.0,€43.3M,43.3
+106,Joshua Zirkzee,N/a,F (C),23,Man Utd,73.5,80.1,€43.3M,43.3
+107,Youri Tielemans,N/a,"M, DM (C)",27,Aston Villa,79.1,79.9,€43.3M,43.3
+108,Antonee Robinson,N/a,D (L),27,Fulham,77.9,78.7,€42.7M,42.7
+109,Yankuba Minteh,N/a,"F, M (R)",20,Brighton,74.0,85.6,€42.6M,42.6
+110,Harvey Barnes,N/a,"F, AM, M (L)",27,Newcastle Utd.,78.2,78.6,€42.6M,42.6
+111,Matheus Nunes,N/a,"M (CL), D (R)",26,Man City,71.6,72.7,€42.3M,42.3
+112,Jan Paul van Hecke,N/a,D (C),24,Brighton,72.3,78.6,€41.9M,41.9
+113,Guglielmo Vicario,N/a,GK,28,Tottenham,72.3,72.3,€41.6M,41.6
+114,Vitor Reis,N/a,D (C),19,Man City,58.6,77.4,€41.4M,41.4
+115,Georginio Rutter,N/a,"F, M (C)",23,Brighton,72.1,79.0,€41.2M,41.2
+116,Nikola Milenković,N/a,D (C),27,Nottingham,78.2,80.3,€40.6M,40.6
+117,Bilal El Khannouss,N/a,"AM, M (C)",20,Leicester,64.6,79.6,€40.6M,40.6
+118,Ian Maatsen,N/a,D (L),23,Aston Villa,76.1,84.5,€40.5M,40.5
+119,Emile Smith Rowe,N/a,"AM (C), M (CL)",24,Fulham,75.7,80.3,€40.4M,40.4
+120,Mikel Merino,N/a,"M, F (C)",28,Arsenal,74.6,74.6,€39.7M,39.7
+121,Marc Cucurella,N/a,D (L),26,Chelsea,75.7,78.7,€39.6M,39.6
+122,Max Kilman,N/a,D (C),27,West Ham United,72.3,72.3,€39.3M,39.3
+123,Leon Bailey,N/a,"M, AM (R)",27,Aston Villa,76.2,77.5,€38.6M,38.6
+124,Mykhaylo Mudryk,N/a,"M, AM (L)",24,Chelsea,73.6,79.9,€38.2M,38.2
+125,Diogo Dalot,N/a,"D (R), M (RL)",26,Man Utd,73.1,77.0,€37.5M,37.5
+126,Ferdi Kadıoğlu,N/a,D (L),25,Brighton,71.0,75.3,€37.4M,37.4
+127,Reece James,N/a,D (R),25,Chelsea,71.1,75.1,€37.4M,37.4
+128,Cheick Doucouré,N/a,"DM, M (C)",25,C. Palace,73.5,76.5,€37.2M,37.2
+129,Danilo,N/a,"DM, M (C)",23,Nottingham,72.3,78.6,€36.9M,36.9
+130,Edson Álvarez,N/a,"DM, M, D (C)",27,West Ham United,70.8,71.7,€36.7M,36.7
+131,Nathan Aké,N/a,D (CL),30,Man City,76.1,76.1,€36.4M,36.4
+132,Joe Willock,N/a,M (C),25,Newcastle Utd.,73.3,77.4,€36.4M,36.4
+133,Jadon Sancho,N/a,"M (RL), AM (L)",25,Chelsea,78.9,85.6,€36.2M,36.2
+134,Jean-Clair Todibo,N/a,D (C),25,West Ham United,73.4,77.6,€36.1M,36.1
+135,Lewis Hall,N/a,D (L),20,Newcastle Utd.,72.1,88.0,€36.1M,36.1
+136,Malo Gusto,N/a,D (R),21,Chelsea,75.6,88.2,€36.1M,36.1
+137,Myles Lewis-Skelly,N/a,"D (L), M (C)",18,Arsenal,59.7,79.0,€35.7M,35.7
+138,Mason Mount,N/a,"AM, M (C)",26,Man Utd,70.2,72.9,€35.5M,35.5
+139,Pervis Estupiñán,N/a,D (L),27,Brighton,74.0,76.2,€35.4M,35.4
+140,Ibrahim Sangaré,N/a,"DM, M (C)",27,Nottingham,65.0,65.2,€34.6M,34.6
+141,André Onana,N/a,GK,29,Man Utd,73.5,76.9,€34.2M,34.2
+142,Simon Adingra,N/a,"F (L), M (RL)",23,Brighton,67.6,75.0,€34M,34.0
+143,Vitaliy Mykolenko,N/a,D (L),25,Everton,75.7,77.8,€33.5M,33.5
+144,Liam Delap,N/a,"F (C), AM (R)",22,Ipswich Town,65.8,75.1,€33M,33.0
+145,Jarrad Branthwaite,N/a,D (C),22,Everton,77.2,85.6,€32.9M,32.9
+146,Joachim Andersen,N/a,D (C),28,Fulham,78.6,78.6,€32.9M,32.9
+147,Matty Cash,N/a,D (R),27,Aston Villa,74.9,74.9,€32.8M,32.8
+148,Bart Verbruggen,N/a,GK,22,Brighton,72.3,84.4,€32M,32.0
+149,Tyler Dibling,N/a,"AM, M (R)",19,Southampton,53.3,81.5,€32M,32.0
+150,Leandro Trossard,N/a,F (CL),30,Arsenal,79.5,79.5,€31.8M,31.8
+151,Jean-Philippe Mateta,N/a,F (C),27,C. Palace,74.8,74.8,€31.7M,31.7
+152,Rodrigo Bentancur,N/a,"DM, M (C)",27,Tottenham,74.3,75.0,€31.4M,31.4
+153,Yoane Wissa,N/a,F (C),28,Brentford,76.7,76.7,€31.4M,31.4
+154,Lucas Bergvall,N/a,M (C),19,Tottenham,67.0,83.0,€31.3M,31.3
+155,Alex Iwobi,N/a,"F (L), M (RL)",28,Fulham,76.3,76.3,€31.2M,31.2
+156,Facundo Buonanotte,N/a,"AM (C), M (CR)",20,Leicester,66.8,84.2,€31.1M,31.1
+157,Nathan Collins,N/a,D (C),23,Brentford,74.2,80.2,€30.7M,30.7
+158,Patrick Dorgu,N/a,"D (CL), M (L)",20,Man Utd,64.8,81.6,€30.5M,30.5
+159,Wesley Fofana,N/a,D (CR),24,Chelsea,72.6,77.7,€30.4M,30.4
+160,John Stones,N/a,D (CR),30,Man City,75.0,76.2,€30.4M,30.4
+161,Jørgen Strand Larsen,N/a,F (C),25,Wolverhampton,72.5,76.7,€30.3M,30.3
+162,Yves Bissouma,N/a,"DM, M (C)",28,Tottenham,71.4,71.7,€30M,30.0
+163,Taylor Harwood-Bellis,N/a,D (CR),23,Southampton,66.9,79.9,€29.9M,29.9
+164,Calvin Bassey,N/a,D (CL),25,Fulham,73.3,79.3,€29.9M,29.9
+165,Aaron Wan-Bissaka,N/a,"D, M (R)",27,West Ham United,74.4,75.0,€29.7M,29.7
+166,Kevin Schade,N/a,"F (CL), M (L)",23,Brentford,71.1,76.5,€29.7M,29.7
+167,André,N/a,"DM, M (C)",23,Wolverhampton,71.5,79.3,€29.4M,29.4
+168,Oscar Bobb,N/a,"AM (R), M (C)",21,Man City,55.5,65.4,€29.2M,29.2
+169,Brajan Gruda,N/a,"F, M (R), AM (C)",20,Brighton,62.8,74.8,€29.2M,29.2
+170,Daniel Muñoz,N/a,"D, M (R)",28,C. Palace,77.5,77.5,€28.9M,28.9
+171,David Raya,N/a,GK,29,Arsenal,86.5,86.5,€28.7M,28.7
+172,Heung-min Son,N/a,"F (CL), M (L)",32,Tottenham,80.9,80.9,€28.6M,28.6
+173,Mikkel Damsgaard,N/a,"AM, M (C)",24,Brentford,73.4,78.0,€28.6M,28.6
+174,Lewis Miley,N/a,M (C),18,Newcastle Utd.,59.4,78.1,€28.5M,28.5
+175,Radu Drăguşin,N/a,D (C),23,Tottenham,69.6,78.5,€28.4M,28.4
+176,Benoît Badiashile,N/a,D (C),24,Chelsea,70.2,77.6,€28.4M,28.4
+177,Leif Davis,N/a,D (L),25,Ipswich Town,67.0,73.9,€28.4M,28.4
+178,Dango Ouattara,N/a,"F, M (L), AM (R)",23,B'mouth,72.9,80.4,€28.2M,28.2
+179,Conor Bradley,N/a,D (R),21,Liverpool,65.5,75.2,€27.9M,27.9
+180,Sander Berge,N/a,"DM, M (C)",27,Fulham,72.4,72.7,€27.9M,27.9
+181,Omari Giraud-Hutchinson,N/a,M (CR),21,Ipswich Town,64.9,79.9,€27.6M,27.6
+182,Axel Disasi,N/a,D (CR),27,Aston Villa,69.1,69.7,€27.5M,27.5
+183,Keane Lewis-Potter,N/a,"F, D, M (L)",24,Brentford,71.8,77.4,€27.3M,27.3
+184,Kevin Danso,N/a,D (C),26,Tottenham,72.6,74.2,€27.2M,27.2
+185,Lesley Ugochukwu,N/a,"DM, M (C)",21,Southampton,62.1,74.4,€27.1M,27.1
+186,Dwight McNeil,N/a,"AM (C), M (CL)",25,Everton,70.8,75.4,€27M,27.0
+187,Evanilson,N/a,F (C),25,B'mouth,73.4,77.4,€26.9M,26.9
+188,Alex Scott,N/a,"M, DM, AM (C)",21,B'mouth,66.4,77.6,€26.8M,26.8
+189,Richarlison,N/a,F (C),27,Tottenham,72.6,72.7,€26.7M,26.7
+190,Luis Guilherme,N/a,F (R),19,West Ham United,50.1,65.3,€26.6M,26.6
+191,Sepp van den Berg,N/a,D (CR),23,Brentford,71.5,79.4,€26.4M,26.4
+192,Joe Gomez,N/a,D (CRL),27,Liverpool,75.8,76.5,€26.3M,26.3
+193,Jarell Quansah,N/a,D (C),22,Liverpool,62.6,73.4,€26.2M,26.2
+194,Michael Kayode,N/a,D (RL),20,Brentford,67.7,80.4,€26M,26.0
+195,Igor Thiago,N/a,F (C),23,Brentford,63.8,70.1,€25.9M,25.9
+196,Maxence Lacroix,N/a,D (CR),25,C. Palace,76.4,80.0,€25.8M,25.8
+197,Filip Jørgensen,N/a,GK,23,Chelsea,65.0,73.6,€25.7M,25.7
+198,Crysencio Summerville,N/a,"M, AM (L)",23,West Ham United,65.2,71.3,€25.7M,25.7
+199,Matt O'Riley,N/a,M (C),24,Brighton,66.1,71.9,€25.6M,25.6
+200,Wilson Odobert,N/a,"F, M (L)",20,Tottenham,67.9,81.0,€25.6M,25.6
+201,Tomáš Souček,N/a,"DM, M (C)",30,West Ham United,75.6,75.6,€25.6M,25.6
+202,Callum Hudson-Odoi,N/a,M (L),24,Nottingham,81.4,86.4,€25.4M,25.4
+203,Jacob Greaves,N/a,D (CL),24,Ipswich Town,65.2,73.1,€25.4M,25.4
+204,Wout Faes,N/a,D (C),27,Leicester,67.2,70.8,€25.3M,25.3
+205,Mateo Kovačić,N/a,"M, DM (C)",30,Man City,77.7,77.7,€25.3M,25.3
+206,Jakub Kiwior,N/a,D (CL),25,Arsenal,69.8,73.7,€25.2M,25.2
+207,Tyrick Mitchell,N/a,"M, D (L)",25,C. Palace,80.7,83.8,€25.1M,25.1
+208,Julio Enciso,N/a,"AM (C), M (CL)",21,Ipswich Town,69.6,80.5,€25.1M,25.1
+209,Igor Júlio,N/a,D (CL),27,Brighton,72.1,72.9,€25M,25.0
+210,Aaron Hickey,N/a,D (R),22,Brentford,72.4,85.1,€24.9M,24.9
+211,Iliman Ndiaye,N/a,"F, M (L), AM (C)",25,Everton,68.5,72.9,€24.9M,24.9
+212,Ismaïla Sarr,N/a,"F (R), AM (L)",27,C. Palace,69.9,70.1,€24.9M,24.9
+213,Robert Sánchez,N/a,GK,27,Chelsea,75.8,75.8,€24.8M,24.8
+214,Eddie Nketiah,N/a,F (C),25,C. Palace,70.1,72.8,€24.8M,24.8
+215,Tosin Adarabioyo,N/a,D (C),27,Chelsea,74.1,74.1,€24.8M,24.8
+216,Kiernan Dewsbury-Hall,N/a,"M, DM (C)",26,Chelsea,67.8,68.8,€24.6M,24.6
+217,Tyler Adams,N/a,DM (C),26,B'mouth,72.9,75.9,€24.5M,24.5
+218,Alisson,N/a,GK,32,Liverpool,78.0,78.0,€24.5M,24.5
+219,Claudio Echeverri,N/a,"AM, M (C)",19,Man City,54.9,75.0,€24.4M,24.4
+220,Jesper Lindstrøm,N/a,"M (R), AM (CR)",25,Everton,70.6,73.7,€24.4M,24.4
+221,Marcus Tavernier,N/a,"M (RL), AM (L)",26,B'mouth,71.8,74.8,€24.4M,24.4
+222,Beto,N/a,F (C),27,Everton,66.7,66.7,€24.4M,24.4
+223,Orel Mangala,N/a,"DM, M (C)",27,Everton,71.2,71.5,€24.4M,24.4
+224,Victor Kristiansen,N/a,"D, M (L)",22,Leicester,69.6,83.9,€23.9M,23.9
+225,Jordan Pickford,N/a,GK,31,Everton,75.3,75.3,€23.8M,23.8
+226,Mikey Moore,N/a,"AM, F (L)",17,Tottenham,47.9,69.8,€23.7M,23.7
+227,Konstantinos Tsimikas,N/a,D (L),28,Liverpool,69.4,69.4,€23.6M,23.6
+228,Carlos Soler,N/a,"M (C), AM (R)",28,West Ham United,71.4,71.6,€23.3M,23.3
+229,James Garner,N/a,"DM, M (C)",24,Everton,74.9,80.4,€23.2M,23.2
+230,Emiliano Martínez,N/a,GK,32,Aston Villa,74.2,74.2,€23M,23.0
+231,Takehiro Tomiyasu,N/a,D (RL),26,Arsenal,72.9,77.1,€22.9M,22.9
+232,Dean Henderson,N/a,GK,28,C. Palace,78.0,78.0,€22.7M,22.7
+233,Neco Williams,N/a,D (RL),24,Nottingham,71.6,78.5,€22.6M,22.6
+234,Mateus Fernandes,N/a,M (C),20,Southampton,61.5,79.1,€22.5M,22.5
+235,Jaden Philogene-Bidace,N/a,"F (L), M (RL)",23,Ipswich Town,61.7,67.3,€22.3M,22.3
+236,Vitaly Janelt,N/a,"DM, M (C)",26,Brentford,77.0,77.8,€22.2M,22.2
+237,Abdul Fatawu Issahaku,N/a,"F, M (R)",21,Leicester,66.2,79.9,€21.9M,21.9
+238,Dara O'Shea,N/a,D (CR),26,Ipswich Town,64.8,69.8,€21.8M,21.8
+239,Donyell Malen,N/a,"F, M (R), AM (L)",26,Aston Villa,80.6,83.4,€21.6M,21.6
+240,John McGinn,N/a,M (CRL),30,Aston Villa,77.0,77.0,€21.6M,21.6
+241,Kristoffer Ajer,N/a,D (CR),27,Brentford,71.9,72.1,€21.5M,21.5
+242,Yasin Ayari,N/a,"M, DM (C)",21,Brighton,67.1,79.5,€21.5M,21.5
+243,Chadi Riad,N/a,D (C),21,C. Palace,63.3,76.9,€21.4M,21.4
+244,Reiss Nelson,N/a,"F (R), M (L)",25,Fulham,67.0,69.6,€21.3M,21.3
+245,Jean-Ricner Bellegarde,N/a,M (C),26,Wolverhampton,68.6,69.1,€21.3M,21.3
+246,Taiwo Awoniyi,N/a,F (C),27,Nottingham,66.9,66.9,€21M,21.0
+247,Sean Longstaff,N/a,M (C),27,Newcastle Utd.,78.9,80.5,€21M,21.0
+248,Federico Chiesa,N/a,F (CR),27,Liverpool,68.1,68.7,€20.9M,20.9
+249,Caoimhin Kelleher,N/a,GK,26,Liverpool,59.6,62.6,€20.9M,20.9
+250,Fábio Carvalho,N/a,"AM, M, F (C)",22,Brentford,70.5,78.5,€20.6M,20.6
+251,Andrew Robertson,N/a,D (L),31,Liverpool,80.2,80.6,€20.6M,20.6
+252,Kevin De Bruyne,N/a,"M, AM (C)",33,Man City,84.9,84.9,€20.4M,20.4
+253,Ben Chilwell,N/a,"D, M (L)",28,C. Palace,69.2,69.2,€20.4M,20.4
+254,Wilfred Ndidi,N/a,"DM, M (C)",28,Leicester,69.3,70.8,€20.4M,20.4
+255,Marcos Senesi,N/a,D (C),27,B'mouth,69.2,70.7,€20.3M,20.3
+256,Trevoh Chalobah,N/a,D (CR),25,Chelsea,75.2,78.8,€20.2M,20.2
+257,Felipe Morato,N/a,D (CL),23,Nottingham,67.3,74.1,€20M,20.0
+258,Antonín Kinský,N/a,GK,22,Tottenham,63.0,71.9,€20M,20.0
+259,Nathan Patterson,N/a,D (R),23,Everton,59.8,64.3,€19.9M,19.9
+260,James McAtee,N/a,"AM (C), M (CR)",22,Man City,63.4,71.6,€19.8M,19.8
+261,Oleksandr Zinchenko,N/a,D (L),28,Arsenal,79.1,79.2,€19.8M,19.8
+262,Jake O'Brien,N/a,D (CR),23,Everton,65.4,69.0,€19.7M,19.7
+263,Carlos Alcaraz,N/a,M (CL),22,Everton,69.9,78.3,€19.6M,19.6
+264,Lewis Cook,N/a,"M, DM (C), D (R)",28,B'mouth,72.7,73.6,€19.5M,19.5
+265,Ederson,N/a,GK,31,Man City,80.2,80.2,€19.5M,19.5
+266,Jack Clarke,N/a,"F, M (L)",24,Ipswich Town,62.8,67.8,€19.4M,19.4
+267,Ola Aina,N/a,D (RL),28,Nottingham,74.2,74.7,€19.3M,19.3
+268,Marco Asensio,N/a,"F (CR), M (C)",29,Aston Villa,77.6,77.6,€19.3M,19.3
+269,Romain Esse,N/a,"M (R), AM (C)",19,C. Palace,57.7,76.5,€19.2M,19.2
+270,Djed Spence,N/a,D (RL),24,Tottenham,72.5,76.5,€19.2M,19.2
+271,Mads Hermansen,N/a,GK,24,Leicester,62.5,70.5,€19.2M,19.2
+272,Konstantinos Mavropanos,N/a,D (C),27,West Ham United,68.8,69.2,€19.1M,19.1
+273,Andreas Pereira,N/a,"M, DM, AM (C)",29,Fulham,75.7,75.7,€18.9M,18.9
+274,Nicolás Domínguez,N/a,"M, DM (C)",26,Nottingham,74.3,75.4,€18.8M,18.8
+275,Aaron Ramsdale,N/a,GK,26,Southampton,67.3,71.5,€18.7M,18.7
+276,Toti Gomes,N/a,D (CL),26,Wolverhampton,70.6,72.1,€18.6M,18.6
+277,Armando Broja,N/a,F (C),23,Everton,64.8,70.9,€18.6M,18.6
+278,Cameron Archer,N/a,F (C),23,Southampton,66.2,73.8,€18.6M,18.6
+279,Kamaldeen Sulemana,N/a,"F, M (L)",23,Southampton,65.6,71.7,€18.5M,18.5
+280,Mohamed Salah,N/a,"F (CR), M (R)",32,Liverpool,86.6,86.6,€18.3M,18.3
+281,Marshall Munetsi,N/a,"M, DM (C)",28,Wolverhampton,68.3,68.3,€18.3M,18.3
+282,Yehor Yarmoliuk,N/a,"AM, M (C)",21,Brentford,65.9,75.9,€18M,18.0
+283,Emmanuel Agbadou,N/a,D (C),27,Wolverhampton,68.7,68.7,€18M,18.0
+284,Jacob Murphy,N/a,"F (R), AM (L)",30,Newcastle Utd.,77.2,77.2,€17.9M,17.9
+285,Issa Diop,N/a,D (C),28,Fulham,70.8,71.5,€17.9M,17.9
+286,Jack Harrison,N/a,"F, M (R), AM (C)",28,Everton,72.0,72.0,€17.9M,17.9
+287,Dominic Calvert-Lewin,N/a,F (C),28,Everton,67.6,68.8,€17.8M,17.8
+288,Hee-chan Hwang,N/a,F (C),29,Wolverhampton,69.0,69.1,€17.6M,17.6
+289,Ryan Yates,N/a,"M, DM (C)",27,Nottingham,72.2,74.0,€17.5M,17.5
+290,Raheem Sterling,N/a,"F, AM (R), M (L)",30,Arsenal,77.1,77.1,€17.5M,17.5
+291,Luke Shaw,N/a,D (CL),29,Man Utd,72.7,72.7,€17.5M,17.5
+292,Jota Silva,N/a,F (CR),25,Nottingham,63.7,65.7,€17.4M,17.4
+293,Ramón Sosa,N/a,"F, M, AM (L)",25,Nottingham,62.1,64.7,€17.4M,17.4
+294,Kalvin Phillips,N/a,"DM, M (C)",29,Ipswich Town,66.6,66.7,€17.3M,17.3
+295,Oliver Skipp,N/a,"DM, M (C)",24,Leicester,70.0,76.8,€17.1M,17.1
+296,Mats Wieffer,N/a,"M, DM (C)",25,Brighton,65.7,70.1,€16.8M,16.8
+297,Timothy Castagne,N/a,D (R),29,Fulham,75.9,75.9,€16.8M,16.8
+298,Marc Guiu,N/a,F (C),19,Chelsea,43.1,62.7,€16.7M,16.7
+299,Kyle Walker-Peters,N/a,"D, M (R)",28,Southampton,65.5,67.6,€16.6M,16.6
+300,Caleb Okoli,N/a,D (CL),23,Leicester,64.3,73.0,€16.6M,16.6
+301,Albert Grønbæk,N/a,"AM, M (C)",23,Southampton,62.1,67.9,€16.6M,16.6
+302,Virgil van Dijk,N/a,D (C),33,Liverpool,79.8,80.3,€16.6M,16.6
+303,Youssef Chermiti,N/a,F (C),20,Everton,51.4,62.0,€16.6M,16.6
+304,James Justin,N/a,D (RL),27,Leicester,67.9,70.6,€16.4M,16.4
+305,Enes Ünal,N/a,F (C),27,B'mouth,64.8,64.8,€16.4M,16.4
+306,Gonçalo Guedes,N/a,F (CL),28,Wolverhampton,71.2,71.2,€16.2M,16.2
+307,Ryan Christie,N/a,DM (C),30,B'mouth,76.7,76.7,€16.2M,16.2
+308,Bernd Leno,N/a,GK,33,Fulham,74.0,74.0,€16M,16.0
+309,Yukinari Sugawara,N/a,D (R),24,Southampton,65.6,72.2,€15.8M,15.8
+310,Chris Richards,N/a,D (CRL),25,C. Palace,71.1,75.3,€15.7M,15.7
+311,Matheus França,N/a,AM (C),21,C. Palace,59.7,70.0,€15.5M,15.5
+312,James Tarkowski,N/a,D (C),32,Everton,74.9,74.9,€15.5M,15.5
+313,Luis Sinisterra,N/a,"F, M (L)",25,B'mouth,65.2,67.9,€15.4M,15.4
+314,Jens Cajuste,N/a,"DM, M (C)",25,Ipswich Town,66.1,68.8,€15.4M,15.4
+315,Armel Bella-Kotchap,N/a,D (C),23,Southampton,64.6,70.5,€15.4M,15.4
+316,Mathis Amougou,N/a,M (C),19,Chelsea,48.7,65.9,€15.3M,15.3
+317,Boubakary Soumaré,N/a,"DM, M (C)",26,Leicester,69.0,74.1,€15.3M,15.3
+318,Daichi Kamada,N/a,"AM, M (C)",28,C. Palace,71.5,71.5,€15.1M,15.1
+319,Julio Soler,N/a,D (L),20,B'mouth,62.9,75.8,€14.8M,14.8
+320,Lucas Digne,N/a,D (L),31,Aston Villa,71.2,71.2,€14.8M,14.8
+321,Nasser Djiga,N/a,D (C),22,Wolverhampton,59.2,73.1,€14.7M,14.7
+322,Rico Henry,N/a,"D, M (L)",27,Brentford,71.7,73.8,€14.7M,14.7
+323,Mathias Jensen,N/a,M (C),29,Brentford,74.2,74.2,€14.7M,14.7
+324,Thomas Partey,N/a,"DM, M (C), D (R)",31,Arsenal,77.2,77.2,€14.7M,14.7
+325,Harry Wilson,N/a,"F, M (R)",28,Fulham,76.0,76.0,€14.5M,14.5
+326,Julian Araujo,N/a,D (R),23,B'mouth,64.3,71.3,€14.3M,14.3
+327,Patson Daka,N/a,F (C),26,Leicester,66.1,70.3,€14.3M,14.3
+328,Sammie Szmodics,N/a,"AM (C), M (L)",29,Ipswich Town,61.3,61.3,€14.1M,14.1
+329,Tommy Doyle,N/a,M (C),23,Wolverhampton,66.7,73.3,€14M,14.0
+330,Mark Flekken,N/a,GK,31,Brentford,72.0,72.0,€13.9M,13.9
+331,Harry Maguire,N/a,D (C),32,Man Utd,67.6,68.2,€13.8M,13.8
+332,Tim Iroegbunam,N/a,"M, DM (C)",21,Everton,57.6,66.0,€13.8M,13.8
+333,Tariq Lamptey,N/a,D (RL),24,Brighton,66.9,70.1,€13.6M,13.6
+334,Guido Rodríguez,N/a,"DM, M (C)",31,West Ham United,71.6,71.6,€13.6M,13.6
+335,Victor Lindelöf,N/a,D (C),30,Man Utd,67.8,67.8,€13.5M,13.5
+336,Kenny Tete,N/a,D (R),29,Fulham,70.7,71.6,€13.4M,13.4
+337,Niclas Füllkrug,N/a,F (C),32,West Ham United,66.0,66.0,€13.4M,13.4
+338,Stephy Mavididi,N/a,"F, M (L)",26,Leicester,66.8,70.1,€13.2M,13.2
+339,Altay Bayındır,N/a,GK,27,Man Utd,60.3,62.9,€13.2M,13.2
+340,Aaron Anselmino,N/a,D (C),19,Chelsea,57.5,69.0,€13.2M,13.2
+341,Pedro Lima,N/a,D (R),18,Wolverhampton,45.3,64.1,€13.1M,13.1
+342,Carlos Forbs,N/a,F (RL),21,Wolverhampton,54.9,67.6,€13M,13.0
+343,David Brooks,N/a,"F, M (R)",27,B'mouth,65.9,65.9,€13M,13.0
+344,Jan Bednarek,N/a,D (C),29,Southampton,63.8,64.6,€13M,13.0
+345,David Datro Fofana,N/a,F (C),22,Chelsea,65.9,75.4,€12.9M,12.9
+346,Jefferson Lerma,N/a,"DM, M (C)",30,C. Palace,70.8,70.8,€12.8M,12.8
+347,Emerson Palmieri,N/a,D (L),30,West Ham United,67.0,67.0,€12.7M,12.7
+348,Paul Onuachu,N/a,F (C),30,Southampton,63.1,63.1,€12.7M,12.7
+349,Ben Johnson,N/a,"D, M (R)",25,Ipswich Town,66.6,70.6,€12.6M,12.6
+350,Odsonne Édouard,N/a,F (C),27,Leicester,70.0,72.6,€12.4M,12.4
+351,Yerson Mosquera,N/a,D (CRL),23,Wolverhampton,67.3,76.1,€12.2M,12.2
+352,Adam Webster,N/a,D (C),30,Brighton,71.4,71.4,€12.2M,12.2
+353,Saša Lukić,N/a,"M, DM (C)",28,Fulham,72.1,72.1,€12.1M,12.1
+354,William Osula,N/a,F (C),21,Newcastle Utd.,58.5,67.1,€11.9M,11.9
+355,Ryan Sessegnon,N/a,"D, M (L)",24,Fulham,68.5,71.8,€11.8M,11.8
+356,Alphonse Aréola,N/a,GK,32,West Ham United,66.6,66.6,€11.6M,11.6
+357,Casemiro,N/a,"DM, M (C)",33,Man Utd,72.4,72.4,€11.6M,11.6
+358,Nick Pope,N/a,GK,33,Newcastle Utd.,70.1,71.3,€11.5M,11.5
+359,James Ward-Prowse,N/a,"M, DM (C)",30,West Ham United,66.9,66.9,€11.5M,11.5
+360,Harry Winks,N/a,"DM, M (C)",29,Leicester,68.2,68.4,€11.5M,11.5
+361,Kepa Arrizabalaga,N/a,GK,30,B'mouth,72.2,75.0,€11.4M,11.4
+362,Eiran Joe Cashin,N/a,D (CL),23,Brighton,58.3,66.2,€11.3M,11.3
+363,Santiago Bueno,N/a,D (CR),26,Wolverhampton,68.6,71.2,€11.3M,11.3
+364,Álex Moreno,N/a,D (L),31,Nottingham,68.5,69.2,€11.2M,11.2
+365,Wataru Endo,N/a,"DM, M (C)",32,Liverpool,68.3,68.3,€11.1M,11.1
+366,İlkay Gündoğan,N/a,"M, DM (C)",34,Man City,81.2,81.2,€11M,11.0
+367,Christian Nørgaard,N/a,"DM, M (C)",31,Brentford,73.7,73.7,€10.8M,10.8
+368,Harry Souttar,N/a,D (C),26,Leicester,66.9,66.9,€10.8M,10.8
+369,Toby Collyer,N/a,DM (C),21,Man Utd,54.0,62.4,€10.7M,10.7
+370,Tyrique George,N/a,F (L),19,Chelsea,46.2,62.2,€10.7M,10.7
+371,Ben Godfrey,N/a,D (CRL),27,Ipswich Town,64.4,66.8,€10.5M,10.5
+372,Andrés García,N/a,D (R),22,Aston Villa,60.5,68.3,€10.4M,10.4
+373,Arijanet Murić,N/a,GK,26,Ipswich Town,68.1,71.1,€10.4M,10.4
+374,Timo Werner,N/a,"F, M, AM (L)",29,Tottenham,75.8,76.0,€10.3M,10.3
+375,Matz Sels,N/a,GK,33,Nottingham,72.7,73.4,€10.2M,10.2
+376,Chiedozie Ogbene,N/a,"F, M (R), AM (C)",27,Ipswich Town,62.0,63.0,€9.8M,9.8
+377,Will Smallbone,N/a,"M, AM (C)",25,Southampton,63.2,66.8,€9.8M,9.8
+378,Conor Chaplin,N/a,"M, AM (C)",28,Ipswich Town,63.5,64.7,€9.6M,9.6
+379,Jack Hinshelwood,N/a,"D (R), DM (C)",20,Brighton,68.5,84.7,€9.2M,9.2
+380,Juan Larios,N/a,D (L),21,Southampton,51.4,64.9,€9.1M,9.1
+381,Oliver Scarles,N/a,"D, M (L)",19,West Ham United,60.9,70.7,€8.7M,8.7
+382,José Sá,N/a,GK,32,Wolverhampton,69.9,69.9,€8.6M,8.6
+383,Yunus Konak,N/a,"DM, M (C)",19,Brentford,55.5,71.1,€8.5M,8.5
+384,Flynn Downes,N/a,"DM, M (C)",26,Southampton,64.6,68.0,€8.5M,8.5
+385,Dan Burn,N/a,D (CL),32,Newcastle Utd.,77.0,77.0,€8.4M,8.4
+386,Rodrigo Muniz,N/a,F (C),23,Fulham,66.7,71.6,€8.4M,8.4
+387,Nélson Semedo,N/a,"D, M (R)",31,Wolverhampton,72.4,72.4,€8.3M,8.3
+388,Adama Traoré,N/a,"F, M (R)",29,Fulham,68.7,68.7,€8.2M,8.2
+389,Joe Aribo,N/a,M (C),28,Southampton,63.3,64.1,€8M,8.0
+390,Tyler Morton,N/a,"DM, M (C)",22,Liverpool,59.8,67.9,€7.9M,7.9
+391,Sam Johnstone,N/a,GK,32,Wolverhampton,60.6,61.6,€7.9M,7.9
+392,Chris Wood,N/a,F (C),33,Nottingham,73.1,73.1,€7.9M,7.9
+393,Jorge Cuenca,N/a,D (CL),25,Fulham,64.3,67.0,€7.8M,7.8
+394,Matt Targett,N/a,D (L),29,Newcastle Utd.,66.0,66.0,€7.6M,7.6
+395,Ethan Pinnock,N/a,D (C),31,Brentford,70.5,70.5,€7.6M,7.6
+396,Daniel Jebbison,N/a,F (C),21,B'mouth,58.8,67.6,€7.6M,7.6
+397,Ross Barkley,N/a,M (C),31,Aston Villa,68.4,68.4,€7.6M,7.6
+398,Luke Thomas,N/a,D (L),23,Leicester,63.6,69.2,€7.6M,7.6
+399,Fabian Schär,N/a,D (C),33,Newcastle Utd.,70.9,70.9,€7.5M,7.5
+400,Solly March,N/a,M (R),30,Brighton,62.4,62.4,€7.3M,7.3
+401,Callum Wilson,N/a,F (C),33,Newcastle Utd.,63.5,63.5,€7.3M,7.3
+402,Will Hughes,N/a,M (C),30,C. Palace,72.5,72.5,€7.3M,7.3
+403,Lamare Bogarde,N/a,M (C),21,Aston Villa,54.6,66.3,€7.2M,7.2
+404,Kieran Tierney,N/a,D (L),27,Arsenal,72.9,72.9,€7.1M,7.1
+405,Lewis Dunk,N/a,D (C),33,Brighton,69.6,71.0,€7.1M,7.1
+406,Matt Turner,N/a,GK,30,C. Palace,54.1,54.1,€7M,7.0
+407,George Hirst,N/a,F (C),26,Ipswich Town,62.4,63.6,€6.9M,6.9
+408,Justin Devenny,N/a,M (C),21,C. Palace,56.1,67.0,€6.9M,6.9
+409,Harrison Reed,N/a,"M, DM (C)",30,Fulham,69.0,69.0,€6.9M,6.9
+410,Joachim Kayi Sanda,N/a,D (CR),18,Southampton,46.4,70.3,€6.7M,6.7
+411,Ayden Heaven,N/a,D (CL),19,Man Utd,50.3,71.0,€6.7M,6.7
+412,Andy Irving,N/a,M (C),24,West Ham United,52.9,55.1,€6.6M,6.6
+413,Saša Kalajdžić,N/a,F (C),27,Wolverhampton,66.1,66.8,€6.3M,6.3
+414,Nathan Wood,N/a,D (CL),22,Southampton,57.2,65.0,€6.2M,6.2
+415,Nathan Broadhead,N/a,M (L),27,Ipswich Town,63.3,63.3,€6.1M,6.1
+416,Vítězslav Jaroš,N/a,GK,23,Liverpool,50.3,59.7,€6M,6.0
+417,Danny Welbeck,N/a,F (C),34,Brighton,72.1,72.1,€5.9M,5.9
+418,Joël Veltman,N/a,D (CR),33,Brighton,74.8,74.8,€5.9M,5.9
+419,Abdoulaye Doucouré,N/a,"M, AM (C)",32,Everton,69.1,69.1,€5.8M,5.8
+420,Stefan Ortega,N/a,GK,32,Man City,61.7,61.7,€5.8M,5.8
+421,Tyrone Mings,N/a,D (C),32,Aston Villa,69.5,69.5,€5.7M,5.7
+422,Sergio Reguilón,N/a,"D, M (L)",28,Tottenham,68.2,68.6,€5.7M,5.7
+423,Joshua Dasilva,N/a,M (C),26,Brentford,66.9,70.3,€5.4M,5.4
+424,Carlos Miguel,N/a,GK,26,Nottingham,49.6,50.2,€5.3M,5.3
+425,Raúl Jiménez,N/a,F (C),33,Fulham,68.8,68.8,€5.2M,5.2
+426,Dane Scarlett,N/a,F (C),21,Tottenham,51.7,63.9,€5.1M,5.1
+427,Ben Davies,N/a,D (CL),32,Tottenham,66.4,66.4,€5.1M,5.1
+428,Jorginho,N/a,"DM, M (C)",33,Arsenal,74.9,74.9,€5.1M,5.1
+429,Vladimír Coufal,N/a,D (R),32,West Ham United,66.7,66.7,€4.9M,4.9
+430,Joshua King,N/a,M (C),18,Fulham,48.7,68.3,€4.7M,4.7
+431,Danny Ings,N/a,F (C),32,West Ham United,59.6,59.6,€4.6M,4.6
+432,Odysseas Vlachodimos,N/a,GK,31,Newcastle Utd.,65.4,66.4,€4.6M,4.6
+433,Kieran Trippier,N/a,D (R),34,Newcastle Utd.,69.5,69.5,€4.5M,4.5
+434,Matai Akinmboni,N/a,D (C),18,B'mouth,45.1,67.2,€4.5M,4.5
+435,Carl Rushworth,N/a,GK,23,Brighton,59.6,64.7,€4.5M,4.5
+436,Jordan Ayew,N/a,"F (CR), M (R)",33,Leicester,65.5,66.4,€4.5M,4.5
+437,Idrissa Gueye,N/a,"DM, M (C)",35,Everton,71.6,71.6,€4.5M,4.5
+438,Axel Tuanzebe,N/a,D (CR),27,Ipswich Town,62.4,63.0,€4.3M,4.3
+439,Ricardo Pereira,N/a,D (R),31,Leicester,60.8,60.8,€4.3M,4.3
+440,Pablo Sarabia,N/a,"F (R), AM (C)",32,Wolverhampton,67.3,67.3,€4.3M,4.3
+441,Eric da Silva Moreira,N/a,"M, AM (R)",18,Nottingham,45.7,67.7,€4.2M,4.2
+442,Welington,N/a,D (L),24,Southampton,61.1,67.3,€4.2M,4.2
+443,Matt Doherty,N/a,D (R),33,Wolverhampton,68.1,68.1,€4M,4.0
+444,Christian Eriksen,N/a,"M, DM (C)",33,Man Utd,66.9,66.9,€3.9M,3.9
+445,Ryan Manning,N/a,D (L),28,Southampton,62.2,62.4,€3.8M,3.8
+446,Omari Kellyman,N/a,F (C),19,Chelsea,45.0,66.2,€3.5M,3.5
+447,Bobby Reid,N/a,"F (R), M (RL)",32,Leicester,64.0,64.0,€2.7M,2.7
+448,Ross Stewart,N/a,F (C),28,Southampton,49.9,49.9,€2.7M,2.7
+449,Jamaal Lascelles,N/a,D (C),31,Newcastle Utd.,65.0,66.3,€2.7M,2.7
+450,Carlos Vinícius,N/a,F (C),30,Fulham,63.3,63.3,€2.4M,2.4
+451,Hákon Rafn Valdimarsson,N/a,GK,23,Brentford,63.0,67.9,€2.4M,2.4
+452,Michael Keane,N/a,D (C),32,Everton,57.4,57.4,€2.4M,2.4
+453,Jack Taylor,N/a,"DM, M (C)",26,Ipswich Town,57.2,58.9,€2.3M,2.3
+454,Ryan Fraser,N/a,"F, AM (L)",31,Southampton,59.0,59.0,€2.3M,2.3
+455,Harry Toffolo,N/a,D (L),29,Nottingham,62.1,62.1,€2.3M,2.3
+456,Conor Coady,N/a,D (C),32,Leicester,61.3,61.3,€2.3M,2.3
+457,Michael Golding,N/a,M (C),18,Leicester,48.8,67.3,€2.2M,2.2
+458,Daniel Iversen,N/a,GK,27,Leicester,63.2,63.4,€2.1M,2.1
+459,Wes Burns,N/a,M (R),30,Ipswich Town,64.4,64.4,€2.1M,2.1
+460,James Hill,N/a,D (CR),23,B'mouth,54.7,61.8,€2.1M,2.1
+461,Emil Krafth,N/a,D (CR),30,Newcastle Utd.,58.8,58.8,€2.1M,2.1
+462,Charlie Taylor,N/a,D (CL),31,Southampton,63.6,64.4,€2.1M,2.1
+463,Jannik Vestergaard,N/a,D (C),32,Leicester,61.7,61.7,€2M,2.0
+464,Jamal Lewis,N/a,D (L),27,Newcastle Utd.,59.8,60.2,€2M,2.0
+465,Luke Woolfenden,N/a,D (C),26,Ipswich Town,65.0,68.3,€2M,2.0
+466,James Bree,N/a,D (CR),27,Southampton,59.9,60.8,€2M,2.0
+467,Woyo Coulibaly,N/a,D (RL),25,Leicester,59.6,63.6,€1.9M,1.9
+468,Cameron Burgess,N/a,D (C),29,Ipswich Town,61.7,62.8,€1.7M,1.7
+469,Alex Palmer,N/a,GK,28,Ipswich Town,64.4,67.5,€1.6M,1.6
+470,Neto,N/a,GK,35,Arsenal,61.3,62.7,€1.6M,1.6
+471,Kortney Hause,N/a,D (CL),29,Aston Villa,62.4,63.6,€1.5M,1.5
+472,Adam Smith,N/a,D (R),33,B'mouth,68.5,68.7,€1.5M,1.5
+473,Craig Dawson,N/a,D (C),34,Wolverhampton,64.4,64.4,€1.5M,1.5
+474,Jason Steele,N/a,GK,34,Brighton,51.5,52.0,€1.5M,1.5
+475,Kasey McAteer,N/a,"F, M (R)",23,Leicester,55.1,61.3,€1.5M,1.5
+476,Tom Cairney,N/a,"M, DM (C)",34,Fulham,61.7,61.7,€1.5M,1.5
+477,Daniel Bentley,N/a,GK,31,Wolverhampton,53.7,54.2,€1.5M,1.5
+478,Caleb Kporha,N/a,D (R),18,C. Palace,48.3,62.0,€1.4M,1.4
+479,Christian Walton,N/a,GK,29,Ipswich Town,56.6,56.7,€1.4M,1.4
+480,Jack Stephens,N/a,D (CL),31,Southampton,60.6,61.0,€1.4M,1.4
+481,Malcolm Ebiowei,N/a,"F, M (R)",21,C. Palace,52.3,62.2,€1.4M,1.4
+482,Ashley Young,N/a,D (RL),39,Everton,72.5,72.5,€1.3M,1.3
+483,Sam Morsy,N/a,"M, DM (C)",33,Ipswich Town,65.0,65.6,€1.3M,1.3
+484,Willy Boly,N/a,D (CR),34,Nottingham,57.6,57.6,€1.3M,1.3
+485,Wesley Foderingham,N/a,GK,34,West Ham United,59.7,60.9,€1.3M,1.3
+486,Martin Dúbravka,N/a,GK,36,Newcastle Utd.,62.2,62.2,€1.2M,1.2
+487,Will Dennis,N/a,GK,24,B'mouth,58.2,64.3,€1.2M,1.2
+488,Cieran Slicker,N/a,GK,22,Ipswich Town,54.7,61.6,€1.2M,1.2
+489,Conor Townsend,N/a,D (L),32,Ipswich Town,58.7,58.7,€1.2M,1.2
+490,James Milner,N/a,"M (C), D (R)",39,Brighton,66.2,66.2,€1.2M,1.2
+491,Jamie Vardy,N/a,F (C),38,Leicester,67.3,69.5,€1.2M,1.2
+492,Jonny Evans,N/a,D (C),37,Man Utd,60.4,60.4,€1.1M,1.1
+493,Steven Benda,N/a,GK,26,Fulham,50.4,51.8,€1.1M,1.1
+494,Nathaniel Clyne,N/a,D (R),34,C. Palace,62.0,62.8,€1.1M,1.1
+495,Michail Antonio,N/a,F (C),35,West Ham United,70.2,70.2,€1M,1.0
+496,Kim Ji-Soo,N/a,D (C),20,Brentford,49.1,60.8,€1M,1.0
+497,Marcus Bettinelli,N/a,GK,32,Chelsea,55.5,56.3,€1M,1.0
+498,Willian,N/a,"F, M, AM (L)",36,Fulham,67.4,67.4,€1M,1.0
+499,Kaden Rodney,N/a,"DM, M (C)",20,C. Palace,59.0,71.0,€0.9M,0.9
+500,Robin Olsen,N/a,GK,35,Aston Villa,46.0,46.0,€0.9M,0.9
+501,Ben Mee,N/a,D (CL),35,Brentford,62.6,62.6,€0.9M,0.9
+502,Danny Ward,N/a,GK,31,Leicester,50.1,50.1,€0.9M,0.9
+503,Adam Lallana,N/a,"AM, M (C)",36,Southampton,58.4,58.4,€0.9M,0.9
+504,Joel Ward,N/a,D (R),35,C. Palace,58.1,58.1,€0.9M,0.9
+505,Łukasz Fabiański,N/a,GK,40,West Ham United,64.4,64.4,€0.9M,0.9
+506,Asmir Begović,N/a,GK,37,Everton,61.2,61.2,€0.9M,0.9
+507,Aaron Cresswell,N/a,D (L),35,West Ham United,62.6,62.6,€0.8M,0.8
+508,Edmond-Paris Maghoma,N/a,M (C),23,Brentford,52.2,56.8,€0.8M,0.8
+509,Brandon Austin,N/a,GK,26,Tottenham,44.4,45.2,€0.8M,0.8
+510,Joe Lumley,N/a,GK,30,Southampton,58.4,58.4,€0.7M,0.7
+511,John Ruddy,N/a,GK,38,Newcastle Utd.,60.5,60.5,€0.7M,0.7
+512,Séamus Coleman,N/a,D (R),36,Everton,59.8,59.8,€0.7M,0.7
+513,Harry Amass,N/a,D (L),18,Man Utd,43.8,63.6,€0.7M,0.7
+514,Jakub Stolarczyk,N/a,GK,24,Leicester,52.8,54.8,€0.7M,0.7
+515,Fraser Forster,N/a,GK,37,Tottenham,52.4,52.4,€0.7M,0.7
+516,Harvey Davies,N/a,GK,21,Liverpool,54.1,68.8,€0.6M,0.6
+517,Alex McCarthy,N/a,GK,35,Southampton,52.2,52.2,€0.6M,0.6
+518,Tom King,N/a,GK,30,Wolverhampton,51.1,51.1,€0.6M,0.6
+519,Lucas Bergström,N/a,GK,22,Chelsea,52.4,60.6,€0.6M,0.6
+520,João Virgínia,N/a,GK,25,Everton,51.7,54.4,€0.6M,0.6
+521,Tom McGill,N/a,GK,25,Brighton,49.8,53.1,€0.5M,0.5
+522,Massimo Luongo,N/a,"M, DM (C)",32,Ipswich Town,56.7,56.7,€0.5M,0.5
+523,Alfie Whiteman,N/a,GK,26,Tottenham,49.1,53.1,€0.5M,0.5
+524,Remi Matthews,N/a,GK,31,C. Palace,47.7,47.8,€0.4M,0.4
+525,Mark Gillespie,N/a,GK,33,Newcastle Utd.,43.7,44.7,€0.4M,0.4
+526,Wayne Hennessey,N/a,GK,38,Nottingham,45.4,45.4,€0.4M,0.4
+527,Scott Carson,N/a,GK,39,Man City,44.5,44.9,€0.4M,0.4
+528,Tom Heaton,N/a,GK,39,Man Utd,46.8,46.8,€0.4M,0.4
+529,Ranel Young,N/a,F (C),19,Liverpool,43.6,60.6,€0.2M,0.2
+530,Rento Takaoka,N/a,F (C),18,Southampton,32.6,32.6,€0.2M,0.2
+531,Richard Olise,N/a,D (R),20,Chelsea,47.0,57.5,€90K,0.09
